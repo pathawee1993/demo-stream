@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/pathawee1993/demo-stream#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "fs": "0.0.1-security",
     "stream": "0.0.2"
   }
